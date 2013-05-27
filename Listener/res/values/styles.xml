@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+    <style name="checkBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/check_box</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:maxHeight">30dp</item>
+    </style>
+</resources>
